@@ -1,6 +1,0 @@
-START:	12-04-2013 11:44:25
-SITE:	http://lists.clean-mx.com/pipermail/viruswatch/20131204/date.html
-STATUS:	200 OK
-START:	12-05-2013 14:43:24
-SITE:	http://lists.clean-mx.com/pipermail/viruswatch/20131205/date.html
-STATUS:	200 OK
